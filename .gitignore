@@ -1,0 +1,10 @@
+# Bỏ qua thư viện thư viện React và Python
+node_modules/
+__pycache__/
+env/
+venv/
+.env
+
+# Bỏ qua các file dữ liệu và mô hình AI nặng (nếu file của bạn > 100MB)
+# transformer_storm_model.pth
+# East_Sea_Weather_ReadyForAI.csv

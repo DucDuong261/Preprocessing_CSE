@@ -1,0 +1,35 @@
+Epoch [1/5], Batch [1000/6122], Loss: 0.7881
+Epoch [1/5], Batch [2000/6122], Loss: 0.4048
+Epoch [1/5], Batch [3000/6122], Loss: 0.1981
+Epoch [1/5], Batch [4000/6122], Loss: 0.2568
+Epoch [1/5], Batch [5000/6122], Loss: 0.4189
+Epoch [1/5], Batch [6000/6122], Loss: 0.3505
+Hết Epoch 1 | Lỗi trung bình (Loss): 0.4007
+Epoch [2/5], Batch [1000/6122], Loss: 0.3731
+Epoch [2/5], Batch [2000/6122], Loss: 0.2229
+Epoch [2/5], Batch [3000/6122], Loss: 1.0032
+Epoch [2/5], Batch [4000/6122], Loss: 0.3892
+Epoch [2/5], Batch [5000/6122], Loss: 0.3419
+Epoch [2/5], Batch [6000/6122], Loss: 0.3689
+Hết Epoch 2 | Lỗi trung bình (Loss): 0.3865
+Epoch [3/5], Batch [1000/6122], Loss: 0.2896
+Epoch [3/5], Batch [2000/6122], Loss: 0.2286
+Epoch [3/5], Batch [3000/6122], Loss: 0.4127
+Epoch [3/5], Batch [4000/6122], Loss: 0.4154
+Epoch [3/5], Batch [5000/6122], Loss: 0.6315
+Epoch [3/5], Batch [6000/6122], Loss: 0.2279
+Hết Epoch 3 | Lỗi trung bình (Loss): 0.3835
+Epoch [4/5], Batch [1000/6122], Loss: 0.3147
+Epoch [4/5], Batch [2000/6122], Loss: 0.4093
+Epoch [4/5], Batch [3000/6122], Loss: 0.3996
+Epoch [4/5], Batch [4000/6122], Loss: 0.4073
+Epoch [4/5], Batch [5000/6122], Loss: 0.3282
+Epoch [4/5], Batch [6000/6122], Loss: 0.4054
+Hết Epoch 4 | Lỗi trung bình (Loss): 0.3818
+Epoch [5/5], Batch [1000/6122], Loss: 0.2936
+Epoch [5/5], Batch [2000/6122], Loss: 0.3059
+Epoch [5/5], Batch [3000/6122], Loss: 0.6958
+Epoch [5/5], Batch [4000/6122], Loss: 0.2127
+Epoch [5/5], Batch [5000/6122], Loss: 0.2867
+Epoch [5/5], Batch [6000/6122], Loss: 0.2971
+Hết Epoch 5 | Lỗi trung bình (Loss): 0.3803
